@@ -13,7 +13,7 @@ The input is a PDDL domain file `<domain>`, a PDDL problem file `<problem>`, and
 ```
 java -jar enhsp.jar -o <domain> -f <problem> -planner <config>
 ```
-where the top 4 new configurations ordered total coverage in the paper are
+where the top new configurations ordered by total coverage in the paper are
 - `sat-mq3h3n`
 - `sat-mq3h`
 - `sat-mq3n`
